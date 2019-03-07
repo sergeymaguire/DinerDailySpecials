@@ -52,7 +52,7 @@ namespace DinerDailySpecials
                     break;
 
             }
-
+            lblOutPut.Text = "Today's special is " + special;
         }
     }
 }
